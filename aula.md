@@ -33,8 +33,9 @@ Apresentar os dados
 - [x] Boolean: true, false
 ## Operadores
 
-- [x] Operadores de atribuição de valor
-- [x] Operador de concatenação
+- [x] Operadores de atribuição de valor: =
+- [x] Operador de concatenação: +
+- [x] Operadores de comparações: == != < > <= >= 
 
 ## Estrutura de dados:
 
@@ -61,6 +62,8 @@ Apresentar os dados
 # Condicionais
 
 - [x] switch
+- [x] If/Else
+
 
 ## Módulos em Node.js
 
