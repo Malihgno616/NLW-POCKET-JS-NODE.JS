@@ -2,15 +2,18 @@
 let meta = {
     value: "ler um livro por mês", 
     address: 2,
-    checked: false,
-    log: (info) =>  {
-        console.log(info)
-    }
+    checked: true,
 }
 
-meta.value = "não é mais ler um livro"
-meta.log(meta.value);
+let metas = [
+    meta, {
+        value: "praticar exercícios 3 vezes por semana",
+        checked: false
+    }
+]
 
+
+console.log(metas[1].value)
 
 //function      //arrow function
 
