@@ -53,3 +53,9 @@ Apresentar os dados
 - [x] Criar
 - [x] Executar 
 - [x] arrow function / named function
+
+# Estrutura de repetição
+
+- [x] while
+
+# Condicionais
