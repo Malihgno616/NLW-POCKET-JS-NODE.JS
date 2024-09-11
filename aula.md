@@ -31,18 +31,20 @@ Apresentar os dados
 - [x] Strings (textos): "" '' ``
 - [x] Number: 2,2,3,1,2,4,5
 - [x] Boolean: true, false
+
 ## Operadores
 
 - [x] Operadores de atribuição de valor: =
 - [x] Operador de concatenação: +
 - [x] Operadores de comparações: == != < > <= >= 
+- [x] spread operator! ... 
 
 ## Estrutura de dados:
 
 ### Arrays
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métods de array
+- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos
 
