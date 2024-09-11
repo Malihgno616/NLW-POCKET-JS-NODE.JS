@@ -74,6 +74,14 @@ Apresentar os dados
 
 - [x] Biblioteca 'inquirer' para criar prompts interativos
 
+- [x] FS (file system)
+
+## JSON
+
+- [x] Javascript Object Notation (.json)
+- [x] JSON.parse() - transforma de JSON para JS
+- [x] JSON.stringfy(): transforma de JS para JSON
+
 ## Programação assíncrona e Promises
 
 - [x] Tipo de funções assíncronas (assync/await)
