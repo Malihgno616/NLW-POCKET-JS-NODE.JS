@@ -21,6 +21,7 @@ Coletar os dados
 Processar o dados (manipular, alterar ...)
 Apresentar os dados
 
+
 ## Escopos e Variáveis
 
 - [x] Variáveis globais e locais 
@@ -44,7 +45,7 @@ Apresentar os dados
 ### Arrays
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
+- [x] Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
 ### Objetos
 
@@ -67,7 +68,6 @@ Apresentar os dados
 - [x] switch
 - [x] If/Else
 
-
 ## Módulos em Node.js
 
 - [x] Importação de módulos (require, CommonJS)
@@ -77,4 +77,3 @@ Apresentar os dados
 ## Programação assíncrona e Promises
 
 - [x] Tipo de funções assíncronas (assync/await)
-

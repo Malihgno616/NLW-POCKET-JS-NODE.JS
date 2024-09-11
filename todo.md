@@ -3,7 +3,7 @@
     - [x] Metas Realizadas
     - [x] Metas Abertas
 - [x] Marcar/Desmarcar metas como concluída
-- Renomear metas
-- Sistema de mensagens
+- [x] Renomear metas
+- [x] Sistema de mensagens
 
 
