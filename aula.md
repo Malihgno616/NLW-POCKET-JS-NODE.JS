@@ -42,6 +42,7 @@ Apresentar os dados
 ### Arrays
 
 - [x] Uma lista que contém qualquer tipo de dado
+- [x] Métods de array
 
 ### Objetos
 
